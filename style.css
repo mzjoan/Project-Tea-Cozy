@@ -183,6 +183,9 @@ a:hover {
    height: 200px;
    text-align: center; 
 }
+.contact-box > h2 {
+    padding-top: 10px;
+}
 
 /* Footer */
 h5.footer-h5 {
@@ -230,5 +233,8 @@ h5.footer-h5 {
     }
     .location-sub-box > h3,p {
         line-height: 1.5;
+    }
+    .location-sub-box > h3 {
+        padding-top: 10px;
     }
 }
